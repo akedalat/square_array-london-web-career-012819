@@ -4,6 +4,6 @@ def square_array(array)
     numbers[i] = x*x
     i += 1
     return numbers
-    
+
   end
 end
